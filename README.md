@@ -34,5 +34,8 @@
 # 코드 기여자 
  * 위 파일 리스트 항목에 기재된 모든 소스 파일 전체 개발: 허창훈
   
- # 보드 
+# 보드 
   * Raspberry pi 4 : 메인 어플리케이션 구동, https://github.com/mythmyth128/seoulhackathon2021.git
+  
+# 시연 동영상 파일 링크 주소
+ * https://youtu.be/CzSytkMgUJg
